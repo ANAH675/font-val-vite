@@ -53,7 +53,7 @@ export default function Login() {
         
         <p>
           Don’t have an account?{" "}
-          <br>
+        
           <Link to="/register">Sign up here</Link>
         </p>
       </form>
